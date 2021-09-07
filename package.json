@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "airtable": "^0.11.1",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2"
+    "eslint-config-next": "11.1.2",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^2.2.10"
   }
 }
